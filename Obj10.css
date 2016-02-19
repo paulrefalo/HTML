@@ -1,0 +1,17 @@
+body {
+  background: url(chemistry.jpg) repeat;
+}
+
+form#stylish {
+  background-color: lightgrey;
+  padding: 10px 20px 10px 20px;
+  font-family: Helvetica, sans-serif;
+}
+input#color {
+   margin-left: 10px;
+   margin-right: 10px;
+   background-color: f8f8ff;
+   border: 3px inset #80c4de;
+   color: darkblue;
+}
+

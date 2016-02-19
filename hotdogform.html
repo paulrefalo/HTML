@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Tables</title>
+  <meta charset="utf-8">
+  <style>
+    table {
+       border-collapse: collapse;
+    }
+    th {
+       background-color: lightgrey;
+       text-align: right;
+       padding: 10px;
+    }
+    td {
+       background-color: #a6d7a6;
+       padding: 10px;
+    }
+    caption {
+       caption-side: bottom;
+       font-style: italic;
+       font-size: 80%;
+    }
+  </style>
+</head>
+<body>
+  <form method="get" action="">
+   <table>
+   <caption>Hot Dog Data Entry</caption>
+   <tr>
+    <th><label for="name">Name:</label></th>
+    <td><input type="text" id="name"><td>
+   </tr>
+   <tr>
+    <th><label for="numhotdogs">Number of hot dogs:</label></th>
+    <td><input type="number" id="numhotdogs"></td>
+    </tr>
+   </table>
+  </form>
+</body>
+</html>

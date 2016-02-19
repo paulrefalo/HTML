@@ -1,0 +1,35 @@
+body  {
+   background-color: #f4f4f4;
+   font-family: Arial, Courier, sans-serif;
+ }
+
+
+h1  {
+    border-width: 0px 0px 2px 0px;
+    border-style: solid;
+    border-color: black;
+ } 
+
+  
+p  {
+   
+   padding: 10px;
+ }
+ 
+
+   
+ div#pullquote {
+      background-color: #333333;
+      border-width: 2px;
+      border-style: solid;
+      border-color: black;
+      margin-top: 20px;
+      padding: 20px;
+      width: 250px;
+      margin: 20px;
+      float: left;
+      font-family: Times, Arial, serif;
+      font-size: 24px;
+      font-style: italic;
+      color: #ffffff;
+    }

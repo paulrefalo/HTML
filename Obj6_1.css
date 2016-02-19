@@ -1,0 +1,21 @@
+body {
+      background: url(rain.jpg) repeat;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    p.alt {
+      background-color: #99ccff;
+      width: 220px;
+    }
+    
+    #courier {
+    font-family: Courier;
+    color: #0000ff;
+    }
+    
+    #times {
+    font-family: Times New Roman;
+    color: #ff11ff;
+    }
+  
+ 
+  

@@ -1,0 +1,154 @@
+header, section, footer, aside, nav, article, figure, figcaption {
+	display: block;
+}
+body {
+	color: #666666;
+	background-color: #f9f8f6;
+	background-image: url("images/woods.jpg");
+	background-position: center;
+	font-family: Georgia, Times, serif;
+	line-height: 1.4em;
+	margin: 10px;
+}
+.wrapper {
+	width: 940px;
+	margin: 25px auto 20px auto;
+	border: 3px solid #000000;
+	background-color: #ffffff;
+	
+}
+header {
+	height: 150px;
+	align: top;
+	background-image: url("images/portland 5.jpg");	
+}
+title {
+	padding: 20px;
+}
+h1 {
+	text-indent: 450px;
+	width: 940px;
+	height: 135px;
+	margin: 0px;
+	
+}
+nav, footer {
+	clear: both;
+	color: #ffffff;
+	background-color: #aeaca8;
+	height: 30px;
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+
+ul {
+	padding: 10px;
+}
+
+nav li {
+	display: inline;
+	margin-right: 30px;
+}
+
+nav li a {
+	color: #ffffff;
+}
+
+nav li a:hover {
+	color: black;
+}
+
+a.current:link {   
+    background-color: #78AB46;  
+}  
+section.main {
+	float: left;
+	width: 650px;
+	border-right: 1px solid #eeeeee;
+}
+
+
+article {
+	clear: both;
+	overflow: hidden;
+	width: 100%;
+	border-bottom: 1px solid #eeeeee;
+}
+hgroup {
+	margin-top: 40px;
+}
+
+
+figure {
+	float: left;
+	width: 290px;
+	height: 195px;
+	padding: 5px;
+	margin: 20px;
+	border: 1px solid #eeeeee;
+}
+
+figcaption {
+	font-size: 90%;
+	text-align: left;
+}
+
+.side {
+     	color: #78AB46;
+}
+
+aside {
+	width: 230px;
+	float: left;
+	padding: 0px 0px 0px 20px;
+	a:hover {
+	color: #000000;}
+}
+
+aside section a {
+	display: block;
+	padding: 10px;
+	border-bottom: 1px solid #eeeeee;
+}
+
+aside section a:hover {
+	color: #985d6a;
+	background-color: #efefef;
+}
+
+a {
+	color: #78AB46;
+	padding: 10px;
+	border-bottom: 1px solid #eeeeee;
+}
+
+a:hover {
+	color: #985d6a;
+	background-color: #efefef;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+h2 {
+	margin: 10px 0px 5px 0px;
+	padding: 0px;
+}
+h3 {
+	margin: 0px 0px 10px 0px;
+	color: #78AB46;
+}
+aside h2 {
+	padding: 30px 0px 10px 0px;
+	color: #666666;
+}
+form {
+	text-indent: 100px;
+	padding: 50px;
+}
+footer {
+	font-size: 80%;
+	padding: 7px 0px 0px 20px;
+}

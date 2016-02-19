@@ -1,0 +1,30 @@
+body {
+      background: url(plaster.jpg) repeat;
+      font-family: sans-serif;
+    }
+    #huey {
+      background-color: #3366ff;
+      color: #ffff66;
+      width: 150px;
+    }
+    
+    #louie {
+      background-color: #ffff66;
+      color: #3366ff;
+      width: 150px;
+    }
+    
+    #dewey {
+      font-family: Times New Roman;
+      width: 150px;
+    }
+    
+    #courier {
+    font-family: Courier;
+    color: #0000ff;
+    }
+    
+    #times {
+    font-family: Times New Roman;
+    color: #ff11ff;
+    }

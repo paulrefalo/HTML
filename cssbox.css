@@ -1,0 +1,31 @@
+h1 {
+   border: 1px solid grey;
+   background-color: #ccccff;
+   padding: 10px;
+}
+
+h2 {
+   border-width: 0px 0px 3px 0px;
+   border-style: inset;
+   border-color: green;
+}
+
+p {
+   border: 1px solid purple;
+   padding: 10px;
+}
+
+em, strong {
+   border: 2px dashed black;
+   margin: 10px;
+   padding: 50px;
+}
+
+ul {
+   border: 1px solid blue;
+}
+
+li {
+   border: 1px solid red;
+   margin-top: 20px;
+}

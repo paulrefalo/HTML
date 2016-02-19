@@ -1,0 +1,20 @@
+body {
+    color: green;
+}
+blockquote {
+    color: brown;
+    padding: 10px;
+    border: 1px dotted #373737;
+    font-style: italic;
+}
+em {
+    font-style: normal;
+    font-weight: bold;
+}
+#content blockquote em {
+    font-style: italic;
+}
+p a {
+    background-color: yellow;
+    color: black;
+}
